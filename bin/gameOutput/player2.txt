@@ -1,0 +1,69 @@
+Player 2 draws 4 from deck 2
+Player 2 discards 6 to deck 3
+Player 2 current hand 2 7 4 8
+Player 2 draws 2 from deck 2
+Player 2 discards 7 to deck 3
+Player 2 current hand 2 2 4 8
+Player 2 draws 7 from deck 2
+Player 2 discards 8 to deck 3
+Player 2 current hand 2 2 4 7
+Player 2 draws 5 from deck 2
+Player 2 discards 4 to deck 3
+Player 2 current hand 2 2 5 7
+Player 2 draws 3 from deck 2
+Player 2 discards 7 to deck 3
+Player 2 current hand 2 2 5 3
+Player 2 draws 5 from deck 2
+Player 2 discards 3 to deck 3
+Player 2 current hand 2 2 5 5
+Player 2 draws 4 from deck 2
+Player 2 discards 5 to deck 3
+Player 2 current hand 2 2 5 4
+Player 2 draws 9 from deck 2
+Player 2 discards 4 to deck 3
+Player 2 current hand 2 2 5 9
+Player 2 draws 6 from deck 2
+Player 2 discards 5 to deck 3
+Player 2 current hand 2 2 6 9
+Player 2 draws 6 from deck 2
+Player 2 discards 6 to deck 3
+Player 2 current hand 2 2 6 9
+Player 2 draws 10 from deck 2
+Player 2 discards 9 to deck 3
+Player 2 current hand 2 2 6 10
+Player 2 draws 7 from deck 2
+Player 2 discards 10 to deck 3
+Player 2 current hand 2 2 6 7
+Player 2 draws 3 from deck 2
+Player 2 discards 6 to deck 3
+Player 2 current hand 2 2 3 7
+Player 2 draws 9 from deck 2
+Player 2 discards 7 to deck 3
+Player 2 current hand 2 2 3 9
+Player 2 draws 9 from deck 2
+Player 2 discards 3 to deck 3
+Player 2 current hand 2 2 9 9
+Player 2 draws 9 from deck 2
+Player 2 discards 9 to deck 3
+Player 2 current hand 2 2 9 9
+Player 2 draws 10 from deck 2
+Player 2 discards 9 to deck 3
+Player 2 current hand 2 2 9 10
+Player 2 draws 10 from deck 2
+Player 2 discards 10 to deck 3
+Player 2 current hand 2 2 9 10
+Player 2 draws 8 from deck 2
+Player 2 discards 10 to deck 3
+Player 2 current hand 2 2 9 8
+Player 2 draws 2 from deck 2
+Player 2 discards 8 to deck 3
+Player 2 current hand 2 2 9 2
+Player 2 draws 8 from deck 2
+Player 2 discards 9 to deck 3
+Player 2 current hand 2 2 8 2
+Player 2 draws 2 from deck 2
+Player 2 discards 8 to deck 3
+Player 2 current hand 2 2 2 2
+player 2 wins
+player 2 exits
+player 2 final hand 2 2 2 2
