@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -12,7 +13,6 @@ public class CardGame {
         int n = playerChecker(scanner);
         String filePath = fileChecker(scanner);
         File pack = packLoader(filePath);
-        // Include code to repeat these steps until valid information is given
         System.out.println("Thank you proceed to program");
         Player[] players = new Player[n];
         for (int i = 0; i < n; i++) {

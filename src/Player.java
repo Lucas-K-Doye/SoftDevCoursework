@@ -1,3 +1,4 @@
+
 import java.util.List;
 import java.util.Random;
 import java.io.BufferedWriter;
@@ -30,6 +31,11 @@ public class Player extends Thread {
             System.out.printf("Failed to create player output file for player %d", playerNumber);
         }
     }
+
+    public Card[] getHand() {
+        return this.hand;
+    }
+    
 
     public int getNumber() {
         return playerNumber;

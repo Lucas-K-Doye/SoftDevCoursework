@@ -13,3 +13,8 @@ Once this command has run you can navigate to the bin directory and run the comm
 ```bash
 java CardGame
 ```
+
+To run the tests in junit4 you can run the bash command
+```bash
+javac -cp .:libs/junit-4.13.2.jar:libs/hamcrest-core-1.3.jar src/*.java tests/*.java
+```

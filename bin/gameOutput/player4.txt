@@ -1,66 +1,66 @@
 Player 4 draws 10 from deck 4
-Player 4 discards 1 to deck 1
-Player 4 current hand 9 3 10 10
-Player 4 draws 1 from deck 4
-Player 4 discards 10 to deck 1
-Player 4 current hand 9 3 10 1
-Player 4 draws 4 from deck 4
-Player 4 discards 9 to deck 1
-Player 4 current hand 4 3 10 1
-Player 4 draws 9 from deck 4
 Player 4 discards 3 to deck 1
-Player 4 current hand 4 9 10 1
-Player 4 draws 8 from deck 4
-Player 4 discards 1 to deck 1
-Player 4 current hand 4 9 10 8
-Player 4 draws 9 from deck 4
+Player 4 current hand 9 10 10 1
+Player 4 draws 1 from deck 4
 Player 4 discards 9 to deck 1
-Player 4 current hand 4 9 10 8
-Player 4 draws 10 from deck 4
+Player 4 current hand 1 10 10 1
+Player 4 draws 4 from deck 4
+Player 4 discards 1 to deck 1
+Player 4 current hand 4 10 10 1
+Player 4 draws 9 from deck 4
+Player 4 discards 1 to deck 1
+Player 4 current hand 4 10 10 9
+Player 4 draws 8 from deck 4
 Player 4 discards 9 to deck 1
 Player 4 current hand 4 10 10 8
+Player 4 draws 5 from deck 4
+Player 4 discards 10 to deck 1
+Player 4 current hand 4 10 5 8
 Player 4 draws 8 from deck 4
 Player 4 discards 10 to deck 1
-Player 4 current hand 4 10 8 8
-Player 4 draws 2 from deck 4
-Player 4 discards 10 to deck 1
-Player 4 current hand 4 2 8 8
-Player 4 draws 2 from deck 4
+Player 4 current hand 4 8 5 8
+Player 4 draws 9 from deck 4
 Player 4 discards 8 to deck 1
-Player 4 current hand 4 2 2 8
-Player 4 draws 6 from deck 4
-Player 4 discards 2 to deck 1
-Player 4 current hand 4 2 6 8
-Player 4 draws 7 from deck 4
-Player 4 discards 8 to deck 1
-Player 4 current hand 4 2 6 7
-Player 4 draws 4 from deck 4
-Player 4 discards 2 to deck 1
-Player 4 current hand 4 4 6 7
-Player 4 draws 8 from deck 4
-Player 4 discards 6 to deck 1
-Player 4 current hand 4 4 8 7
-Player 4 draws 5 from deck 4
-Player 4 discards 7 to deck 1
-Player 4 current hand 4 4 8 5
-Player 4 draws 7 from deck 4
-Player 4 discards 5 to deck 1
-Player 4 current hand 4 4 8 7
-Player 4 draws 4 from deck 4
-Player 4 discards 7 to deck 1
-Player 4 current hand 4 4 8 4
-Player 4 draws 5 from deck 4
-Player 4 discards 8 to deck 1
-Player 4 current hand 4 4 5 4
-Player 4 draws 6 from deck 4
-Player 4 discards 5 to deck 1
-Player 4 current hand 4 4 6 4
-Player 4 draws 5 from deck 4
-Player 4 discards 6 to deck 1
-Player 4 current hand 4 4 5 4
+Player 4 current hand 4 9 5 8
 Player 4 draws 10 from deck 4
+Player 4 discards 8 to deck 1
+Player 4 current hand 4 9 5 10
+Player 4 draws 2 from deck 4
 Player 4 discards 5 to deck 1
-Player 4 current hand 4 4 10 4
+Player 4 current hand 4 9 2 10
+Player 4 draws 2 from deck 4
+Player 4 discards 2 to deck 1
+Player 4 current hand 4 9 2 10
+Player 4 draws 7 from deck 4
+Player 4 discards 9 to deck 1
+Player 4 current hand 4 7 2 10
+Player 4 draws 6 from deck 4
+Player 4 discards 2 to deck 1
+Player 4 current hand 4 7 6 10
+Player 4 draws 4 from deck 4
+Player 4 discards 7 to deck 1
+Player 4 current hand 4 4 6 10
+Player 4 draws 8 from deck 4
+Player 4 discards 10 to deck 1
+Player 4 current hand 4 4 6 8
+Player 4 draws 7 from deck 4
+Player 4 discards 6 to deck 1
+Player 4 current hand 4 4 7 8
+Player 4 draws 5 from deck 4
+Player 4 discards 8 to deck 1
+Player 4 current hand 4 4 7 5
+Player 4 draws 4 from deck 4
+Player 4 discards 7 to deck 1
+Player 4 current hand 4 4 4 5
+Player 4 draws 5 from deck 4
+Player 4 discards 5 to deck 1
+Player 4 current hand 4 4 4 5
+Player 4 draws 6 from deck 4
+Player 4 discards 5 to deck 1
+Player 4 current hand 4 4 4 6
+Player 4 draws 7 from deck 4
+Player 4 discards 6 to deck 1
+Player 4 current hand 4 4 4 7
 player 2 has informed player 4 that player 2 has won
 player 4 exits
-player 4 hand 4 4 10 4
+player 4 hand 4 4 4 7

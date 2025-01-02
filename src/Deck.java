@@ -14,6 +14,11 @@ public class Deck {
         this.cards = 0;
     }
 
+    public int getDeckNumber() {
+        return this.deckNumber;
+    }
+     
+
     public Card[] getHand() {
         return this.hand;
     }
