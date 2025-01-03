@@ -16,5 +16,9 @@ java CardGame
 
 To run the tests in junit4 you can run the bash command
 ```bash
-javac -cp .:libs/junit-4.13.2.jar:libs/hamcrest-core-1.3.jar src/*.java tests/*.java
+java -cp "bin:junit-4.13.2.jar:hamcrest-core-1.3.jar" org.junit.runner.JUnitCore CardGameTest 
+```
+and then,
+```bash
+java -cp "bin:lib/junit-4.13.2.jar:hamcrest-core-1.3.jar" org.junit.runner.JUnitCore CardGameTest
 ```
