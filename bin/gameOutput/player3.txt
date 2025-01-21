@@ -1,66 +1,78 @@
 Player 3 draws 5 from deck 3
-Player 3 discards 8 to deck 4
-Player 3 current hand 5 10 2 9
+Player 3 discards 9 to deck 4
+Player 3 current hand 8 10 2 5
 Player 3 draws 8 from deck 3
-Player 3 discards 5 to deck 4
-Player 3 current hand 8 10 2 9
+Player 3 discards 8 to deck 4
+Player 3 current hand 8 10 2 5
 Player 3 draws 3 from deck 3
 Player 3 discards 8 to deck 4
-Player 3 current hand 3 10 2 9
+Player 3 current hand 3 10 2 5
 Player 3 draws 2 from deck 3
-Player 3 discards 9 to deck 4
-Player 3 current hand 3 10 2 2
-Player 3 draws 6 from deck 3
-Player 3 discards 10 to deck 4
-Player 3 current hand 3 6 2 2
-Player 3 draws 4 from deck 3
 Player 3 discards 2 to deck 4
-Player 3 current hand 3 6 2 4
+Player 3 current hand 3 10 2 5
 Player 3 draws 7 from deck 3
-Player 3 discards 2 to deck 4
-Player 3 current hand 3 6 7 4
+Player 3 discards 5 to deck 4
+Player 3 current hand 3 10 2 7
+Player 3 draws 4 from deck 3
+Player 3 discards 10 to deck 4
+Player 3 current hand 3 4 2 7
+Player 3 draws 6 from deck 3
+Player 3 discards 4 to deck 4
+Player 3 current hand 3 6 2 7
 Player 3 draws 8 from deck 3
 Player 3 discards 7 to deck 4
-Player 3 current hand 3 6 8 4
+Player 3 current hand 3 6 2 8
 Player 3 draws 7 from deck 3
 Player 3 discards 6 to deck 4
-Player 3 current hand 3 7 8 4
+Player 3 current hand 3 7 2 8
 Player 3 draws 4 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand 3 7 2 4
+Player 3 draws 3 from deck 3
 Player 3 discards 4 to deck 4
-Player 3 current hand 3 7 8 4
+Player 3 current hand 3 7 2 3
+Player 3 draws 7 from deck 3
+Player 3 discards 2 to deck 4
+Player 3 current hand 3 7 7 3
+Player 3 draws 5 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand 3 7 5 3
+Player 3 draws 5 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand 3 5 5 3
+Player 3 draws 6 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand 3 6 5 3
+Player 3 draws 9 from deck 3
+Player 3 discards 6 to deck 4
+Player 3 current hand 3 9 5 3
+Player 3 draws 3 from deck 3
+Player 3 discards 9 to deck 4
+Player 3 current hand 3 3 5 3
+Player 3 draws 6 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand 3 3 6 3
+Player 3 draws 10 from deck 3
+Player 3 discards 6 to deck 4
+Player 3 current hand 3 3 10 3
+Player 3 draws 10 from deck 3
+Player 3 discards 10 to deck 4
+Player 3 current hand 3 3 10 3
+Player 3 draws 9 from deck 3
+Player 3 discards 10 to deck 4
+Player 3 current hand 3 3 9 3
+Player 3 draws 9 from deck 3
+Player 3 discards 9 to deck 4
+Player 3 current hand 3 3 9 3
+Player 3 draws 8 from deck 3
+Player 3 discards 9 to deck 4
+Player 3 current hand 3 3 8 3
 Player 3 draws 5 from deck 3
 Player 3 discards 8 to deck 4
-Player 3 current hand 3 7 5 4
-Player 3 draws 5 from deck 3
-Player 3 discards 7 to deck 4
-Player 3 current hand 3 5 5 4
-Player 3 draws 6 from deck 3
+Player 3 current hand 3 3 5 3
+Player 3 draws 8 from deck 3
 Player 3 discards 5 to deck 4
-Player 3 current hand 3 6 5 4
-Player 3 draws 7 from deck 3
-Player 3 discards 4 to deck 4
-Player 3 current hand 3 6 5 7
-Player 3 draws 9 from deck 3
-Player 3 discards 5 to deck 4
-Player 3 current hand 3 6 9 7
-Player 3 draws 6 from deck 3
-Player 3 discards 6 to deck 4
-Player 3 current hand 3 6 9 7
-Player 3 draws 3 from deck 3
-Player 3 discards 7 to deck 4
-Player 3 current hand 3 6 9 3
-Player 3 draws 3 from deck 3
-Player 3 discards 9 to deck 4
-Player 3 current hand 3 6 3 3
-Player 3 draws 9 from deck 3
-Player 3 discards 6 to deck 4
-Player 3 current hand 3 9 3 3
-Player 3 draws 9 from deck 3
-Player 3 discards 9 to deck 4
-Player 3 current hand 3 9 3 3
-Player 3 draws 10 from deck 3
-Player 3 discards 9 to deck 4
-Player 3 current hand 3 10 3 3
+Player 3 current hand 3 3 8 3
 player 2 has informed player 3 that player 2 has won
 player 3 exits
-player 3 hand 3 10 3 3
+player 3 hand 3 3 8 3
