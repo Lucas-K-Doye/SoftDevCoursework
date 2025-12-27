@@ -14,7 +14,7 @@ Once this command has run you can navigate to the bin directory and run the comm
 java CardGame
 ```
 
-To run the tests in junit4 you can run the bash command
+To run the tests in junit4 you can run the following bash command
 ```bash
 java -cp "bin:junit-4.13.2.jar:hamcrest-core-1.3.jar" org.junit.runner.JUnitCore CardGameTest 
 ```
